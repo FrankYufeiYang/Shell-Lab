@@ -20,7 +20,6 @@ linux下给定的实验环境
  
  ## 实验目标
  * 读懂给定的code和搭建好的环境
- * 详细阅读man page，学会如何利用里面提到的函数
  * 实现 `quit` - 退出shell
  * 实现 `jobs` - 列出所有后台任务
  * 实现发送与接受各类异常信号 - SIGCONT SIGCHLD SIGSTP
