@@ -1,9 +1,5 @@
 # Shell-Lab
 
-## 背景
-* 课程: System programming
-* 教材: Computer Systems: A Programmer's Perspective (CSAPP)
-
 ## 语言
 C
 
