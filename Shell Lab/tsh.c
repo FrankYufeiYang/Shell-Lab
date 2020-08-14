@@ -1,8 +1,4 @@
-/*
- * tsh - A tiny shell program with job control
- *
- * <Put your name and login ID here>
- */
+
 #include <ctype.h>
 #include <errno.h>
 #include <signal.h>
